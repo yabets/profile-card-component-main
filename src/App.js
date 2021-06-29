@@ -38,8 +38,8 @@ function App() {
       
 
       <div class="attribution">
-        Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-        Coded by <a href="#">Your Name Here</a>.
+        Challenge by <a href="https://www.frontendmentor.io?ref=challenge">Frontend Mentor</a>. 
+        Coded by <a href="github.com/yabets">Yabets</a>.
       </div>
     </div>
   );
